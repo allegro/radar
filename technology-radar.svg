@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="980" version="1.1" width="980" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Allegro Technology Radar</title><defs /><svg height="980" width="980" x="0" y="0"><defs /><rect fill="rgb(0, 0, 0)" height="980" stroke="none" stroke-width="0" width="980" x="0" y="0" /><circle cx="490" cy="490" fill="rgb(25, 25, 25)" r="425" stroke="rgb(255,255,255)" stroke-width="1" /><circle cx="490" cy="490" fill="rgb(50, 50, 50)" r="370" stroke="rgb(255,255,255)" stroke-width="1" /><circle cx="490" cy="490" fill="rgb(75, 75, 75)" r="315" stroke="rgb(255,255,255)" stroke-width="1" /><circle cx="490" cy="490" fill="rgb(100, 100, 100)" r="260" stroke="rgb(255,255,255)" stroke-width="1" /><line stroke="rgb(255,255,255)" stroke-dasharray="6" stroke-width="1" x1="490" x2="490" y1="0" y2="980" /><line stroke="rgb(255,255,255)" stroke-dasharray="6" stroke-width="1" x1="0" x2="980" y1="490" y2="490" /><text fill="rgb(255,255,255)" style="font-size:18px; font-family:Arial; font-weight:bold; font-style:italic" text-anchor="start" x="495" y="257">IN USE</text><text fill="rgb(255,255,255)" style="font-size:18px; font-family:Arial; font-weight:bold; font-style:italic" text-anchor="start" x="495" y="202">ADOPT</text><text fill="rgb(255,255,255)" style="font-size:18px; font-family:Arial; font-weight:bold; font-style:italic" text-anchor="start" x="495" y="147">HOLD</text><text fill="rgb(255,255,255)" style="font-size:18px; font-family:Arial; font-weight:bold; font-style:italic" text-anchor="start" x="495" y="92">EVALUATE</text><text fill="rgb(255,255,255)" style="font-size:18px; font-family:Arial; font-weight:bold; font-style:italic" text-anchor="start" x="495" y="37">GALAXY</text><circle cx="502.612965455" cy="730.669717876" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>3PAR
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="502.612965455" y="747.669717876">3PAR<title>3PAR
+used by: ZUIDC, ZI2</title></text><circle cx="435.301295755" cy="495.74906548" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>AD/SCCM
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="435.301295755" y="512.74906548">AD/SCCM<title>AD/SCCM
+used by: ZI2</title></text><circle cx="646.532559969" cy="372.044255462" fill="rgb(180,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>ADCS (Microsoft PKI)
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="646.532559969" y="389.044255462">ADCS (Micros<title>ADCS (Microsoft PKI)
+used by: ZI2</title></text><circle cx="313.835067632" cy="561.175252749" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>AIX
+used by: DaaS</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="313.835067632" y="578.175252749">AIX<title>AIX
+used by: DaaS</title></text><circle cx="842.561175578" cy="427.833952395" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>AlienVault
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="842.561175578" y="444.833952395">AlienVault<title>AlienVault
+used by: SEC</title></text><circle cx="633.452036525" cy="477.449573044" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Ansible
+used by: ZUIDC-NET</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="633.452036525" y="494.449573044">Ansible<title>Ansible
+used by: ZUIDC-NET</title></text><circle cx="214.193610274" cy="400.385071631" fill="rgb(0,255,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Bacula/Bareos
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="214.193610274" y="417.385071631">Bacula/Bareo<title>Bacula/Bareos
+used by: ZUIDC, ZI2</title></text><circle cx="341.878116422" cy="693.872282582" fill="rgb(180,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Bamboo
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="341.878116422" y="710.872282582">Bamboo<title>Bamboo
+used by: Pluton</title></text><circle cx="511.850176851" cy="645.472086792" fill="rgb(0,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Brocade
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="511.850176851" y="662.472086792">Brocade<title>Brocade
+used by: ZUIDC</title></text><circle cx="308.262306372" cy="759.43721108" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>buildbot
+used by: pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="308.262306372" y="776.43721108">buildbot<title>buildbot
+used by: pyLabs</title></text><circle cx="788.45352612" cy="691.309445249" fill="rgb(255,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>celery
+used by: pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="788.45352612" y="708.309445249">celery<title>celery
+used by: pyLabs</title></text><circle cx="419.145624869" cy="571.508634664" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>celery
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="419.145624869" y="588.508634664">celery<title>celery
+used by: Pluton</title></text><circle cx="552.203732493" cy="810.010461804" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>CentOS
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="552.203732493" y="827.010461804">CentOS<title>CentOS
+used by: ZI2</title></text><circle cx="653.054193926" cy="406.919738548" fill="rgb(255,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Cisco
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="653.054193926" y="423.919738548">Cisco<title>Cisco
+used by: ZUIDC</title></text><circle cx="331.428800274" cy="356.942964795" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Cisco ASA
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="331.428800274" y="373.942964795">Cisco ASA<title>Cisco ASA
+used by: SEC</title></text><circle cx="668.563964997" cy="502.4864088" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Cisco ASA VPN (via AnyConnect, Cerb access)
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="668.563964997" y="519.4864088">Cisco ASA VP<title>Cisco ASA VPN (via AnyConnect, Cerb access)
+used by: ZI2</title></text><circle cx="251.898526088" cy="260.068079378" fill="rgb(255,  0, 80)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Cisco ASA VPN (via Cisco VPN Client)
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="251.898526088" y="277.068079378">Cisco ASA VP<title>Cisco ASA VPN (via Cisco VPN Client)
+used by: ZI2</title></text><circle cx="124.794297743" cy="371.33747416" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Citrix Desktop, Citrix App
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="124.794297743" y="388.33747416">Citrix Deskt<title>Citrix Desktop, Citrix App
+used by: ZI2</title></text><circle cx="717.483254546" cy="596.077183697" fill="rgb(0,255,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Citrix XenServer
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="717.483254546" y="613.077183697">Citrix XenSe<title>Citrix XenServer
+used by: ZI2</title></text><circle cx="513.160429791" cy="507.452635671" fill="rgb(0,255,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Defence.net / F5
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="513.160429791" y="524.452635671">Defence.net <title>Defence.net / F5
+used by: ZUIDC</title></text><circle cx="423.966439285" cy="645.565320233" fill="rgb(180,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Designate
+used by: CORD</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="423.966439285" y="662.565320233">Designate<title>Designate
+used by: CORD</title></text><circle cx="363.618845138" cy="322.28654289" fill="rgb(0, 80,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Django
+used by: Pluton, pyLabs, ZUIDC-NET, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="363.618845138" y="339.28654289">Django<title>Django
+used by: Pluton, pyLabs, ZUIDC-NET, ZI2</title></text><circle cx="869.942124159" cy="483.368085554" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>ELB (AWS)
+used by: ZI2, Loadbalancing</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="869.942124159" y="500.368085554">ELB (AWS)<title>ELB (AWS)
+used by: ZI2, Loadbalancing</title></text><circle cx="301.901719175" cy="456.833198066" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>EMC DataDomain
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="301.901719175" y="473.833198066">EMC DataDoma<title>EMC DataDomain
+used by: ZUIDC</title></text><circle cx="439.802716482" cy="614.242636512" fill="rgb(180,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>EMC VNX
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="439.802716482" y="631.242636512">EMC VNX<title>EMC VNX
+used by: ZUIDC</title></text><circle cx="710.257129865" cy="544.916270301" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>F5
+used by: ZI2, Loadbalancing</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="710.257129865" y="561.916270301">F5<title>F5
+used by: ZI2, Loadbalancing</title></text><circle cx="652.411222783" cy="197.002398108" fill="rgb(180,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Falconstor VTL
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="652.411222783" y="214.002398108">Falconstor V<title>Falconstor VTL
+used by: ZUIDC</title></text><circle cx="498.24246284" cy="468.527650191" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Ganeti
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="498.24246284" y="485.527650191">Ganeti<title>Ganeti
+used by: ZUIDC</title></text><circle cx="412.33436854" cy="546.42738422" fill="rgb(0,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>gerrit
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="412.33436854" y="563.42738422">gerrit<title>gerrit
+used by: ZUIDC</title></text><circle cx="584.769637837" cy="277.143908369" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>git
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="584.769637837" y="294.143908369">git<title>git
+used by: ZUIDC</title></text><circle cx="463.504654205" cy="187.15681178" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Grafana
+used by: NOC, ASGARD</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="463.504654205" y="204.15681178">Grafana<title>Grafana
+used by: NOC, ASGARD</title></text><circle cx="271.721021251" cy="660.538228665" fill="rgb(0,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Graphite
+used by: ASGARD, DaaS, Priam</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="271.721021251" y="677.538228665">Graphite<title>Graphite
+used by: ASGARD, DaaS, Priam</title></text><circle cx="642.861753755" cy="665.847332192" fill="rgb(80,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>HA Proxy
+used by: ZI2, Loadbalancing</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="642.861753755" y="682.847332192">HA Proxy<title>HA Proxy
+used by: ZI2, Loadbalancing</title></text><circle cx="521.325344482" cy="551.479450169" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>HP B6000 VTL
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="521.325344482" y="568.479450169">HP B6000 VTL<title>HP B6000 VTL
+used by: ZUIDC</title></text><circle cx="631.426530441" cy="302.320655139" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>HP MSA
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="631.426530441" y="319.320655139">HP MSA<title>HP MSA
+used by: ZUIDC, ZI2</title></text><circle cx="638.439287813" cy="546.980503978" fill="rgb(0,255,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>IBM Storwize
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="638.439287813" y="563.980503978">IBM Storwize<title>IBM Storwize
+used by: ZUIDC</title></text><circle cx="441.158608939" cy="374.936893318" fill="rgb(255,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>IPA / FreeIPA
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="441.158608939" y="391.936893318">IPA / FreeIP<title>IPA / FreeIPA
+used by: ZUIDC</title></text><circle cx="417.755529472" cy="415.188660765" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Java
+used by: DaaS, Priam</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="417.755529472" y="432.188660765">Java<title>Java
+used by: DaaS, Priam</title></text><circle cx="315.079063514" cy="429.769891425" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Juniper EX
+
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="315.079063514" y="446.769891425">Juniper EX
+<title>Juniper EX
+
+used by: ZUIDC</title></text><circle cx="344.693360332" cy="630.320990833" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Juniper MX
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="344.693360332" y="647.320990833">Juniper MX<title>Juniper MX
+used by: ZUIDC</title></text><circle cx="568.03572849" cy="393.633900779" fill="rgb(0,255,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Juniper QFX
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="568.03572849" y="410.633900779">Juniper QFX<title>Juniper QFX
+used by: ZUIDC</title></text><circle cx="448.785256999" cy="702.031471625" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Juniper SRX
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="448.785256999" y="719.031471625">Juniper SRX<title>Juniper SRX
+used by: SEC</title></text><circle cx="819.759266891" cy="536.34464262" fill="rgb(0,255,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Juniper SSG
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="819.759266891" y="553.34464262">Juniper SSG<title>Juniper SSG
+used by: SEC</title></text><circle cx="509.969540432" cy="603.252891596" fill="rgb(0,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Kanban
+used by: ZI2, ZI3, ZUIDCN, ZUIDCS, DCO, CORD, NOC,</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="509.969540432" y="620.252891596">Kanban<title>Kanban
+used by: ZI2, ZI3, ZUIDCN, ZUIDCS, DCO, CORD, NOC,</title></text><circle cx="279.0" cy="490.0" fill="rgb(255,  0, 80)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>LXC
+used by: PRIAM</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="279.0" y="507.0">LXC<title>LXC
+used by: PRIAM</title></text><circle cx="394.369524404" cy="460.762829528" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>mkdocs
+used by: Pluton, pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="394.369524404" y="477.762829528">mkdocs<title>mkdocs
+used by: Pluton, pyLabs</title></text><circle cx="640.477160954" cy="599.328056926" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>MSSQL
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="640.477160954" y="616.328056926">MSSQL<title>MSSQL
+used by: ZI2</title></text><circle cx="527.681654554" cy="703.703282404" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Nessus
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="527.681654554" y="720.703282404">Nessus<title>Nessus
+used by: SEC</title></text><circle cx="541.52305669" cy="432.777848438" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>NetApp NFS
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="541.52305669" y="449.777848438">NetApp NFS<title>NetApp NFS
+used by: ZUIDC</title></text><circle cx="206.309743984" cy="434.856200336" fill="rgb(255,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>NetOptics TAP
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="206.309743984" y="451.856200336">NetOptics TA<title>NetOptics TAP
+used by: SEC</title></text><circle cx="486.701495183" cy="301.028785615" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Nexsan
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="486.701495183" y="318.028785615">Nexsan<title>Nexsan
+used by: ZUIDC</title></text><circle cx="721.820981374" cy="440.724929276" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>OEL
+used by: DaaS</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="721.820981374" y="457.724929276">OEL<title>OEL
+used by: DaaS</title></text><circle cx="617.931510653" cy="342.831631857" fill="rgb(0, 80,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>OpenStack
+used by: almost all</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="617.931510653" y="359.831631857">OpenStack<title>OpenStack
+used by: almost all</title></text><circle cx="557.388537214" cy="368.427860708" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>OSB
+used by: DaaS</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="557.388537214" y="385.427860708">OSB<title>OSB
+used by: DaaS</title></text><circle cx="382.16069789" cy="268.89666461" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Perl
+used by: DaaS, NOC, ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="382.16069789" y="285.89666461">Perl<title>Perl
+used by: DaaS, NOC, ZUIDC</title></text><circle cx="276.046168166" cy="784.482185952" fill="rgb(0, 80,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Prolexic / Akamai anty DDoS
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="276.046168166" y="801.482185952">Prolexic / A<title>Prolexic / Akamai anty DDoS
+used by: ZUIDC</title></text><circle cx="183.511230212" cy="340.515438945" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Proxmox
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="183.511230212" y="357.515438945">Proxmox<title>Proxmox
+used by: ZI2</title></text><circle cx="587.858758107" cy="635.081575197" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Puppet
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="587.858758107" y="652.081575197">Puppet<title>Puppet
+used by: ZUIDC, ZI2</title></text><circle cx="441.600838566" cy="670.628129516" fill="rgb(180,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Python
+used by: pyLabs, Pluton, Priam, DaaS, ZI2, ZUIDC-NET</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="441.600838566" y="687.628129516">Python<title>Python
+used by: pyLabs, Pluton, Priam, DaaS, ZI2, ZUIDC-NET</title></text><circle cx="261.280866257" cy="534.458495923" fill="rgb(180,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Quantum Scalar Tape Library
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="261.280866257" y="551.458495923">Quantum Scal<title>Quantum Scalar Tape Library
+used by: ZUIDC</title></text><circle cx="358.020104239" cy="492.30371765" fill="rgb(180,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Quantum VTL
+used by: ZUIDC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="358.020104239" y="509.30371765">Quantum VTL<title>Quantum VTL
+used by: ZUIDC</title></text><circle cx="593.354063413" cy="517.693637826" fill="rgb(80,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>redis queue
+used by: pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="593.354063413" y="534.693637826">redis queue<title>redis queue
+used by: pyLabs</title></text><circle cx="707.800295086" cy="467.108266544" fill="rgb(0,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>RHEL
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="707.800295086" y="484.108266544">RHEL<title>RHEL
+used by: ZI2</title></text><circle cx="476.229392646" cy="332.601237702" fill="rgb(0,255,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Scrum
+used by: Pluton, DaaS, Priam, XWing,ZI5, Asgard, SEC, APIS, pyLabs, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="476.229392646" y="349.601237702">Scrum<title>Scrum
+used by: Pluton, DaaS, Priam, XWing,ZI5, Asgard, SEC, APIS, pyLabs, ZI2</title></text><circle cx="422.064781588" cy="784.259759565" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Simpana
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="422.064781588" y="801.259759565">Simpana<title>Simpana
+used by: ZUIDC, ZI2</title></text><circle cx="352.634692272" cy="386.487816018" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Solaris
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="352.634692272" y="403.487816018">Solaris<title>Solaris
+used by: Pluton</title></text><circle cx="385.777313062" cy="293.985634385" fill="rgb(0,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>sphinx
+used by: pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="385.777313062" y="310.985634385">sphinx<title>sphinx
+used by: pyLabs</title></text><circle cx="442.195777627" cy="521.044424996" fill="rgb(255,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Splunk
+used by: ZUIDC-NET</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="442.195777627" y="538.044424996">Splunk<title>Splunk
+used by: ZUIDC-NET</title></text><circle cx="677.952066892" cy="121.123298986" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Splunk for Security
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="677.952066892" y="138.123298986">Splunk for S<title>Splunk for Security
+used by: SEC</title></text><circle cx="624.393708604" cy="432.953255241" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Stash
+used by: Pluton, DaaS, Priam, ZI2, ZUIDC-NET</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="624.393708604" y="449.953255241">Stash<title>Stash
+used by: Pluton, DaaS, Priam, ZI2, ZUIDC-NET</title></text><circle cx="465.540339595" cy="257.281876484" fill="rgb(80,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Suricata
+used by: SEC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="465.540339595" y="274.281876484">Suricata<title>Suricata
+used by: SEC</title></text><circle cx="671.852154981" cy="637.260971506" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Tessera
+used by: DaaS, Priam</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="671.852154981" y="654.260971506">Tessera<title>Tessera
+used by: DaaS, Priam</title></text><circle cx="613.5" cy="703.908274735" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Tibco
+used by: Cognos</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="613.5" y="720.908274735">Tibco<title>Tibco
+used by: Cognos</title></text><circle cx="429.263215327" cy="226.920082508" fill="rgb(180,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Travis
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="429.263215327" y="243.920082508">Travis<title>Travis
+used by: Pluton</title></text><circle cx="274.298746685" cy="590.583146294" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Travis
+used by: pyLabs</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="274.298746685" y="607.583146294">Travis<title>Travis
+used by: pyLabs</title></text><circle cx="549.949296909" cy="674.504964161" fill="rgb(0,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Ubuntu
+used by: ZI2, Pluton, Priam, DaaS, NOC</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="549.949296909" y="691.504964161">Ubuntu<title>Ubuntu
+used by: ZI2, Pluton, Priam, DaaS, NOC</title></text><circle cx="742.037258617" cy="512.050402915" fill="rgb(255,  0,180)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Vagrant
+used by: Pluton, pyLabs, DaaS, Priam</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="742.037258617" y="529.050402915">Vagrant<title>Vagrant
+used by: Pluton, pyLabs, DaaS, Priam</title></text><circle cx="348.402912014" cy="664.857841328" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Varnish
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="348.402912014" y="681.857841328">Varnish<title>Varnish
+used by: Pluton</title></text><circle cx="784.927110601" cy="737.473229729" fill="rgb(0,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>VarnishPlus
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="784.927110601" y="754.473229729">VarnishPlus<title>VarnishPlus
+used by: Pluton</title></text><circle cx="354.776602706" cy="599.501748043" fill="rgb(180,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>VMWare
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="354.776602706" y="616.501748043">VMWare<title>VMWare
+used by: ZI2</title></text><circle cx="727.12942833" cy="398.974540815" fill="rgb(0,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Windows Server
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="727.12942833" y="415.974540815">Windows Serv<title>Windows Server
+used by: ZI2</title></text><circle cx="343.27785989" cy="521.186753623" fill="rgb(255,255,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Windows Terminal/Remote Desktop Services
+used by: ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="343.27785989" y="538.186753623">Windows Term<title>Windows Terminal/Remote Desktop Services
+used by: ZI2</title></text><circle cx="603.262379212" cy="572.289935321" fill="rgb(180,  0,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Zabbix
+used by: NOC, ASGARD, Hydra</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="603.262379212" y="589.289935321">Zabbix<title>Zabbix
+used by: NOC, ASGARD, Hydra</title></text><circle cx="424.518781589" cy="734.379234051" fill="rgb(255,180,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>ZFS
+used by: Pluton</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="424.518781589" y="751.379234051">ZFS<title>ZFS
+used by: Pluton</title></text><circle cx="738.578517204" cy="340.638958276" fill="rgb(255,  0,  0)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>ZFS
+used by: Priam</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="738.578517204" y="357.638958276">ZFS<title>ZFS
+used by: Priam</title></text><circle cx="142.84771051" cy="514.275252863" fill="rgb(0,180,255)" r="5" stroke="rgb(255,255,255)" stroke-width="1"><title>Zmanda
+used by: ZUIDC, ZI2</title></circle><text fill="rgb(255,255,255)" style="font-size:12px; font-family:Arial; font-weight:bold" text-anchor="middle" x="142.84771051" y="531.275252863">Zmanda<title>Zmanda
+used by: ZUIDC, ZI2</title></text></svg></svg>
